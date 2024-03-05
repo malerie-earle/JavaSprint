@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"JavaSprint","l":"Author"},{"p":"JavaSprint","l":"Book"},{"p":"JavaSprint","l":"BookStatus"},{"p":"JavaSprint","l":"Borrowable"},{"p":"JavaSprint","l":"Library"},{"p":"JavaSprint","l":"Menu"},{"p":"JavaSprint","l":"Patron"},{"p":"JavaSprint","l":"PatronAddress"}];updateSearchResults();
